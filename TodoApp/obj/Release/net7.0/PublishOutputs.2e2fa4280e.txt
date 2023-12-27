@@ -1,0 +1,7 @@
+C:\Users\eualf\source\repos\TodoApp\TodoApp\obj\Release\net7.0\PubTmp\Out\TodoApp.exe
+C:\Users\eualf\source\repos\TodoApp\TodoApp\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\Users\eualf\source\repos\TodoApp\TodoApp\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\Users\eualf\source\repos\TodoApp\TodoApp\obj\Release\net7.0\PubTmp\Out\TodoApp.dll
+C:\Users\eualf\source\repos\TodoApp\TodoApp\obj\Release\net7.0\PubTmp\Out\TodoApp.deps.json
+C:\Users\eualf\source\repos\TodoApp\TodoApp\obj\Release\net7.0\PubTmp\Out\TodoApp.runtimeconfig.json
+C:\Users\eualf\source\repos\TodoApp\TodoApp\obj\Release\net7.0\PubTmp\Out\TodoApp.pdb
