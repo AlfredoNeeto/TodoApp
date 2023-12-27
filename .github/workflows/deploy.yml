@@ -23,10 +23,10 @@ jobs:
       run: dotnet publish --configuration Release --output build
     # changes the base-tag in index.html from '/' to 'TodoApp' to match GitHub Pages repository subdirectory
     - name: Change base-tag in index.html from / to TodoApp
-      run: sed -i 's/<base href="\/" \/>/<base href="\/TodoApp\/" \/>/g' wwwroot/index.html
+      run: sed -i 's/<base href="\/" \/>/<base href="\/TodoApp\/" \/>/g' TodoApp/wwwroot/index.html
     - name: Commit wwwroot to GitHub Pages
-      uses: JamesIves/github-pages-deploy-action@3.7.1
+      uses: AlfredoNeeto/github-pages-deploy-action@3.7.1
       with:
         GITHUB_TOKEN: ${{ secrets.PUBLISH_TOKEN }}
         BRANCH: gh-pages
-        FOLDER: build/wwwroot
+        FOLDER: wwwroot
